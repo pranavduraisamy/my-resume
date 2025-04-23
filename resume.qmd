@@ -1,0 +1,329 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=15mm
+      - left=15mm
+      - right=15mm
+      - bottom=15mm
+      - heightrounded
+    fontfamily: libertine
+    colorlinks: true
+    fontsize: '12'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{libertine}
+        \usepackage{wrapfig}
+        \usepackage{enumitem}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+        \usepackage[none]{hyphenat}%%%%
+---
+<!-- pranav -->
+\begin{huge}
+  \begin{center}
+    {\bf PRANAV D}
+  \end{center}
+\end{huge}
+
+<!-- contct -->
+\begin{center}
+  \href{mailto::dkp2611@gmail.com}{dkp2611@gmail.com} ∙ 
+  \href{https://github.com/pranavduraisamy}{Github} ∙ 
+  \href{https://www.linkedin.com/in/pranavduraisamy/}{LinkedIn}
+\end{center}
+\vspace{5pt}
+
+**Summary:** Mechanical grad passionate in the areas of *Bayesian Analysis, Human Body Modelling and Ergonomics.*
+
+<!-- EDU -->
+\begin{large}{\bf EDUCATION}
+  \vspace{3 pt}
+  \hrule
+  \vspace{3 pt}
+  \setlength{\columnsep}{-10cm}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \leftskip3pt\relax
+      \textbf{Vellore Institute of Technology -- Chennai Campus}\\
+      \textit{Bachelor of Technology, Mechanical Engineering with spl. in E-Vehicles}
+    \end{flushleft}
+      \begin{flushright}
+      \rightskip3pt\relax
+      Chennai, TN\\
+      \begin{small}(Exp.)\end{small} May 2021 - Jun 2025
+    \end{flushright}
+  \end{multicols}
+\end{large}
+\begin{large}
+  \vspace{-0.2cm}
+  \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
+    \rightskip9pt\relax
+    \item CGPA: 9.42 (on a scale of 10) {\textit{(As of Apr 2025)}}
+    \item Consecutive four times Meritorious Award recipient: Rank 1 {\textit{(2025 \& 2024)}}, Rank 3 {\textit{(2023 \& 2022)}}
+    \item Cent Percent Attendance Award recipient {\textit{(2022)}}
+    \item Currently serving as Programme Representative and Student Council Member.
+  \end{itemize}
+\end{large}
+\vspace{7pt}
+
+<!-- EXP -->
+\begin{large}{\bf EXPERIENCE}
+  \vspace{3 pt}
+  \hrule
+
+% EXP1
+  \vspace{3 pt}
+  \setlength{\columnsep}{-10cm}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \leftskip3pt\relax
+      \textbf{VIT -- Medical College of Wisconsin, US Joint Internship Program}\\
+      \textit{Student Intern}
+    \end{flushleft}
+    \begin{flushright}
+    \rightskip3pt\relax
+    Remote\\
+    Aug 2023 - Dec 2023
+    \end{flushright}
+  \end{multicols}
+\end{large}
+\begin{large}
+  \vspace{-0.2cm}
+  \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
+    \rightskip9pt\relax
+    \item Developing and implementing a {\textit{Smooth Particle Hydrodynamics (SPH)}} model to accurately simulate spinal cord behaviour in the Cervical region and enable more precise medical interventions.
+    \item Comparing and validating the results with primary output metrics like Segmental Rotation, Disc pressure, Ligament strain, etc.,
+  \end{itemize}
+
+% EXP2
+  \vspace{3 pt}
+  \setlength{\columnsep}{-10cm}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \leftskip3pt\relax
+      \textbf{La Dassault Systèmes Foundation -- India}\\
+      \textit{Engineering DESIGN Internship Program}
+    \end{flushleft}
+    \begin{flushright}
+      \rightskip3pt\relax
+      Remote\\
+      Aug 2023 - Aug 2024
+    \end{flushright}
+  \end{multicols}
+\end{large}
+\begin{large}
+  \vspace{-0.2cm}
+  \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
+    \rightskip9pt\relax
+    \item Completed a 3-phase campus internship programme focused on the project titled {\textit{“Converting ‘FE model of cervical spine’ to 3D Digital bio-twin”}}.
+    \item Combined the core concepts of Biomechanics, Finite Element Analysis and 3D Printing.
+  \end{itemize}
+\end{large}
+\vspace{7pt}
+
+<!-- skills -->
+\begin{large}{\bf CORE COMPETENCIES}
+  \vspace{3 pt}
+  \hrule
+  \vspace{3 pt}
+	\raggedcolumns
+  \setlength{\columnsep}{-0.00cm}
+  \begin{multicols}{3}
+  \leftskip3pt\relax
+			\begin{flushleft}
+				\vspace{-4 pt}
+				\begin{itemize}[noitemsep, topsep=0pt, left=5pt]
+					\item Bayesian Analysis
+					\item Data Visualization
+				\end{itemize}
+			\end{flushleft}
+
+			\begin{flushleft}
+				\vspace{-4 pt}
+				\begin{itemize}[noitemsep, topsep=0pt, left=5pt]
+					\item Data Prediction \& Forecasting
+					\item Spine Biomechanics
+				\end{itemize}
+			\end{flushleft}
+
+			\begin{flushleft}
+				\vspace{-4 pt}
+				\begin{itemize}[noitemsep, topsep=0pt, left=0.5cm]
+					\item Computer Aided Design
+					\item Finite Element Analysis
+				\end{itemize}
+			\end{flushleft}
+	\end{multicols}
+\end{large}
+\vspace{7 pt}
+
+<!-- tools -->
+\begin{large}{\bf TOOLS \& SOFTWARE}
+  \vspace{3 pt}
+  \hrule
+  \vspace{-1 pt}
+	\raggedcolumns
+  \setlength{\columnsep}{-0.00cm}
+  {\bf {\textit{Design~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Analysis ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Coding~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Essentials}}}
+  \begin{multicols}{4}
+  \leftskip3pt\relax
+      
+			\begin{flushleft}
+				\vspace{-4 pt}
+				\begin{itemize}[noitemsep, topsep=0pt, left=5pt]
+					\item Solidworks
+					\item Fusion 360
+				\end{itemize}
+			\end{flushleft}
+
+			\begin{flushleft}
+				\vspace{-4 pt}
+				\begin{itemize}[noitemsep, topsep=0pt, left=5pt]
+					\item ANSA pre-processor
+					\item LS-DYNA
+					\item Hypermesh
+				\end{itemize}
+			\end{flushleft}
+
+			\begin{flushleft}
+				\vspace{-4 pt}
+				\begin{itemize}[noitemsep, topsep=0pt, left=0.75cm]
+					\item Python
+					\item Git
+				\end{itemize}
+			\end{flushleft}
+
+			\begin{flushleft}
+				\vspace{-4 pt}
+				\begin{itemize}[noitemsep, topsep=0pt, left=0.5cm]
+					\item MS-Office
+					\item Quarto
+					\item LaTex
+				\end{itemize}
+			\end{flushleft}
+	\end{multicols}
+\end{large}
+\vspace{7 pt}
+
+<!-- pjt -->
+
+\begin{large}
+{\bf SELECTED PROJECTS}
+  \vspace{3pt}
+  \hrule
+  \vspace{1pt}
+  \leftskip3pt\relax
+
+%pjt1
+  \textbf{Comparison of Flexion-Extension Responses between Male and Female Cervical Spine Segments}
+  \vspace{-0.2cm}
+  \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
+    \rightskip9pt\relax
+    \item Extracted data from NHTSA online database using python APIs and performed Exploratory Data Analysis with interactive visualizations using \textit{Holoviews and Bokeh} libraries.
+    \item Modelled the segmental rotations of sub-axial cervical spine segments using \textit{hierarchical Bayesian regression analysis}.
+    \item The full conference paper is under peer review for the IRCOBI Europe Conference, 2025.
+  \end{itemize}
+
+% pjt2
+  \textbf{Analysis of Road Accident Fatalities in India using Bayesian approach}
+  \vspace{-0.2cm}
+  \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
+    \rightskip9pt\relax
+    \item Analysed the trends in traffic accidents and fatalities classified by road, vehicles and time of occurrence.
+    \item Developed a \textit{hierarchical Bayesian regression model} to forecast the fatalities count for future years.
+    \item Under peer review as a short communication for IRCOBI Europe Conference, 2025.
+  \end{itemize}
+
+% pjt3
+  \textbf{Sensitivity analysis of a morphological finite element L3-L4 FSU}
+  \vspace{-0.2cm}
+  \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
+    \rightskip9pt\relax
+    \item Parameterized the L3-L4 FSU FE model for population study to simulate the anatomical variances using \textit{ANSA, python and LS-Dyna}.
+    \item Estimate the rotation angle from anatomical parameters using \textit{Bayesian multiple linear regression}.
+    \item The full conference paper was accepted for presentation at IRCOBI Asia Conference, 2025.
+  \end{itemize}
+
+% pjt4
+  \textbf{Computational Modelling of Li-ion Battery in LS-Dyna for crash applications}
+  \vspace{-0.2cm}
+  \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
+    \rightskip9pt\relax
+    \item Coupled mechanical, thermal and electrochemical solvers to simulate the impact and short-circuit scenarios of lithium-ion battery.
+    \item Followed the Tshell elements with Randles equivalent circuit modelling approach.
+  \end{itemize}
+
+% pjt5
+  \textbf{Effect of Helmet Fit \& Orientation in Frontal and Lateral Impact \begin{small}\textit{(Work in Progress)}\end{small}}
+  \vspace{-0.2cm}
+  \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
+    \rightskip9pt\relax
+    \item Studying the common misuse of bicycle helmets and analysing its effect on injury using finite element analysis.
+    \item Identifying the most vulnerable orientation of the helmet using Bayesian analysis.
+  \end{itemize}
+\end{large}
+\vspace{7pt}
+
+<!-- cert -->
+
+\begin{large}
+{\bf WORKSHOPS \& CERTIFICATIONS}
+  \vspace{3pt}
+  \hrule
+  \vspace{3pt}
+  \setlength{\columnsep}{-10cm}
+  \begin{multicols}{2}
+    \leftskip3pt\relax
+    \begin{flushleft}
+      \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
+        \item An Introduction to Injury Assessment using Human Body Models \begin{small}\textit{(CODE, IITM)}\end{small}
+        \item Introduction to Vehicle Occupant Safety \begin{small}\textit{(CODE, IITM)}\end{small}
+        \item HyperWorks Introduction v2022 \begin{small}\textit{(Altair Learning -- Online)}\end{small}
+        \item Python 3.4.3 Training \begin{small}\textit{(Spoken Tutorial Project, IITB)}\end{small}
+      \end{itemize}
+    \end{flushleft}
+    \begin{flushright}
+      \begin{small}(2D) \end{small}Jan 2025\\
+      \begin{small}(5D) \end{small}Sep 2024\\
+      Jan 2023\\
+      Feb 2022\\
+    \end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{7pt}
+
+<!-- extracurr -->
+
+\begin{large}
+{\bf VOLUNTEERING EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \vspace{3pt}
+  \setlength{\columnsep}{-13cm}
+  \begin{multicols}{2}
+    \leftskip3pt\relax
+    \begin{flushleft}
+      \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
+      \item Nasha Mukt Bharat Abhiyan \begin{small}\textit{(Anti-Drug Campaign) by the Ministry of Social Justice and Empowerment, GoI.}\end{small}
+      \item Unnat Bharat Abhiyan \begin{small}\textit{(Rural Development) by the Ministry of Education, GoI.}\end{small}
+      \end{itemize}
+    \end{flushleft}
+    \begin{flushright}
+      Mar 2023\\
+      Feb 2023\\
+    \end{flushright}
+  \end{multicols}
+\end{large}
+
+\vfill
+\begin{flushright}
+  \begin{small}
+    \textit{*Last updated on 23 Apr 2025}
+  \end{small}
+\end{flushright}
