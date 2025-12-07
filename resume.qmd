@@ -228,6 +228,15 @@ format:
   \end{itemize}
 
 % pjt4
+  \textbf{Contribution to Bambi Example Gallery}
+  \vspace{-0.2cm}
+  \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
+    \rightskip9pt\relax
+    \item Refined the documentation to clarify Bayesian hierarchical modelling concepts and improve consistency between Bambi and PyMC implementations.
+    \item Expanded the hierarchical linear regression example by including mathematical formulations, EDA, and posterior visualisations.
+  \end{itemize}
+
+% pjt5
   \textbf{Analysis of Road Accident Fatalities in India \begin{small}\textit{(Solo, WIP)}\end{small}}
   \vspace{-0.2cm}
   \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
@@ -236,7 +245,7 @@ format:
     \item Developing a interactive data visualization dashboard to present key insights and temporal trends.
   \end{itemize}
 
-% pjt5
+% pjt6
   \textbf{Effect of Helmet Fit \& Orientation in Frontal and Lateral Impact \begin{small}\textit{(Solo, WIP)}\end{small}}
   \vspace{-0.2cm}
   \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
