@@ -33,7 +33,7 @@ format:
 
 <!-- contct -->
 \begin{center}
-  \href{mailto::dkp2611@gmail.com}{dkp2611@gmail.com} ∙ 
+  \href{mailto:pranavduraisamy@outlook.com}{pranavduraisamy@outlook.com} ∙ 
   \href{https://github.com/pranavduraisamy}{Github} ∙ 
   \href{https://www.linkedin.com/in/pranavduraisamy/}{LinkedIn}
 \end{center}
@@ -84,7 +84,7 @@ format:
     \begin{flushleft}
       \leftskip3pt\relax
       \textbf{Indian Institute of Technology Madras}\\
-      \textit{Project Officer}
+      \textit{Project Associate}
     \end{flushleft}
     \begin{flushright}
     \rightskip3pt\relax
@@ -112,7 +112,7 @@ format:
     \end{flushleft}
     \begin{flushright}
     \rightskip3pt\relax
-    Remote\\
+    Remote\\quar
     Aug 2023 - Dec 2023
     \end{flushright}
   \end{multicols}
@@ -237,7 +237,7 @@ format:
   \end{itemize}
 
 % pjt5
-  \textbf{Analysis of Road Accident Fatalities in India \begin{small}\textit{(Solo, WIP)}\end{small}}
+  \textbf{Analysis of Road Accident Fatalities in India \begin{small}\textit{(WIP)}\end{small}}
   \vspace{-0.2cm}
   \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
     \rightskip9pt\relax
@@ -246,7 +246,7 @@ format:
   \end{itemize}
 
 % pjt6
-  \textbf{Effect of Helmet Fit \& Orientation in Frontal and Lateral Impact \begin{small}\textit{(Solo, WIP)}\end{small}}
+  \textbf{Effect of Helmet Fit \& Orientation in Frontal and Lateral Impact \begin{small}\textit{(WIP)}\end{small}}
   \vspace{-0.2cm}
   \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
     \rightskip9pt\relax
@@ -333,28 +333,41 @@ format:
 \vspace{7pt}
 
 <!-- extracurr -->
+<!-- \begin{large} -->
+<!-- {\bf VOLUNTEERING EXPERIENCE} -->
+<!-- \vspace{3pt} -->
+<!-- \hrule -->
+<!-- \vspace{3pt} -->
+<!-- \setlength{\columnsep}{-13cm} -->
+<!-- \begin{multicols}{2} -->
+<!-- \leftskip3pt\relax -->
+<!-- \begin{flushleft} -->
+<!-- \begin{itemize}[noitemsep, topsep=0pt, left=10pt] -->
+<!-- \item IRCOBI Asia 2025 Conference -->
+<!-- \item Nasha Mukt Bharat Abhiyan | Anti-Drug Campaign -->
+<!-- \item Unnat Bharat Abhiyan | Rural Development -->
+<!-- \end{itemize} -->
+<!-- \end{flushleft} -->
+<!-- \begin{flushright} -->
+<!-- Jun 2025\\ -->
+<!-- Mar 2023\\ -->
+<!-- Feb 2023\\ -->
+<!-- \end{flushright} -->
+<!-- \end{multicols} -->
+<!-- \end{large}  -->
+<!-- ref -->
 
 \begin{large}
-{\bf VOLUNTEERING EXPERIENCE}
+{\bf REFERENCE}
   \vspace{3pt}
   \hrule
-  \vspace{3pt}
-  \setlength{\columnsep}{-13cm}
-  \begin{multicols}{2}
-    \leftskip3pt\relax
-    \begin{flushleft}
-      \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
-      \item IRCOBI Asia 2025 Conference
-      \item Nasha Mukt Bharat Abhiyan | Anti-Drug Campaign
-      \item Unnat Bharat Abhiyan | Rural Development
-      \end{itemize}
-    \end{flushleft}
-    \begin{flushright}
-      Jun 2025\\
-      Mar 2023\\
-      Feb 2023\\
-    \end{flushright}
-  \end{multicols}
+  \leftskip3pt\relax
+  \textbf{Jobin John}\\
+    \rightskip9pt\relax
+    Researcher, Vehicle Safety, Mechanics and Maritime Sciences\\
+    Chalmers University of Technology - Gothenburg, SE\\
+    \href{mailto:jobin.john@chalmers.se}{jobin.john@chalmers.se}\\
+    \href{tel:+46-31-772-65-97}{+46-31-772-65-97}
 \end{large}
 
 \vfill

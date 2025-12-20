@@ -7,7 +7,7 @@
   [mail]: https://custom-icon-badges.demolab.com/badge/Mail-E61B50.svg?logo=meow
   [linkedin-link]: https://www.linkedin.com/in/pranavduraisamy/
   [git-link]: https://github.com/pranavduraisamy/
-  [mail-link]: mailto:dkp2611@gmail.com
+  [mail-link]: mailto:pranavduraisamy@outlook.com
 
 _**Summary:** Mechanical engineering grad passionate about the areas of Bayesian analysis, human body modelling and passive safety._
 
@@ -27,7 +27,7 @@ _**Summary:** Mechanical engineering grad passionate about the areas of Bayesian
 ## Experience
 
 ### Indian Institute of Technology Madras
-#### Project Officer | Chennai, IN | Jul 2025 - Present
+#### Project Associate | Chennai, IN | Jul 2025 - Present
  - Building a robust standalone python framework to compute the deformed shape of slender rods under complex loading conditions.
  - Employed mathematical formulations from CAD and Cosserat rod theory to simulate the behaviour of these slender structures.
 
@@ -76,11 +76,11 @@ _**Summary:** Mechanical engineering grad passionate about the areas of Bayesian
  - Refined the documentation to clarify Bayesian hierarchical modelling concepts and improve consistency between Bambi and PyMC implementations.
  - Expanded the hierarchical linear regression example by including mathematical formulations, EDA, and posterior visualisations.
 
-### Analysis of Road Accident Fatalities in India (Solo, WIP)
+### Analysis of Road Accident Fatalities in India (WIP)
  - Analysing the trends in traffic accidents and fatalities classified by road, vehicles and time of occurrence.
  - Developing a interactive data visualization dashboard to present key insights and temporal trends.
 
-### Effect of Helmet Fit & Orientation in Frontal and Lateral Impact (Solo, WIP)
+### Effect of Helmet Fit & Orientation in Frontal and Lateral Impact (WIP)
  - Studying the common misuse of helmets and analysing its effect on injury using finite element analysis.
  - Identifying the most vulnerable orientation of the helmet using Bayesian analysis.
 
@@ -116,9 +116,10 @@ _**Summary:** Mechanical engineering grad passionate about the areas of Bayesian
  - **Introduction to Vehicle Occupant Safety** | CODE, IITM | _(5D) Sep 2024_
  - **HyperWorks Introduction v2022 Altair Learning** | Online | _Jan 2023_
  - **Python 3.4.3 Training Spoken Tutorial Project, IITB** | Online | _Feb 2022_
-
+ 
+<!-- 
 ## Volunteering Experience
 
  - **IRCOBI Asia 2025 Conference** | _Jun 2025_
  - **Nasha Mukt Bharat Abhiyan** - Anti-Drug Campaign | _Mar 2023_
- - **Unnat Bharat Abhiyan** - Rural Development | _Feb 2023_
+ - **Unnat Bharat Abhiyan** - Rural Development | _Feb 2023_ -->
