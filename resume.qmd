@@ -112,7 +112,7 @@ format:
     \end{flushleft}
     \begin{flushright}
     \rightskip3pt\relax
-    Remote\\quar
+    Remote\\
     Aug 2023 - Dec 2023
     \end{flushright}
   \end{multicols}
