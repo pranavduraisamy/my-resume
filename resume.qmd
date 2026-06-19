@@ -219,12 +219,12 @@ format:
 \newpage
 
 % pjt3
-  \textbf{Computational Modelling of Li-ion Battery in LS-Dyna for crash applications}
+  \textbf{Bayesian Optimization of Helmet Fit for Enhanced Safety in Frontal and Lateral Impacts}
   \vspace{-0.2cm}
   \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
     \rightskip9pt\relax
-    \item Coupled mechanical, thermal and electrochemical solvers to simulate the impact and short-circuit scenarios of lithium-ion battery.
-    \item Followed the Tshell elements with Randles equivalent circuit modelling approach.
+    \item Modelled a parametric open-face motorcycle helmet to study the influence of fit parameters like helmet size, rotation, and chinstrap slack.
+    \item Developed a complete Bayesian optimization pipeline integrating LS-DYNA and Ax (Python package) to minimize injury metric across frontal and lateral impact scenarios.
   \end{itemize}
 
 % pjt4
@@ -237,21 +237,21 @@ format:
   \end{itemize}
 
 % pjt5
+  \textbf{Computational Modelling of Li-ion Battery in LS-Dyna for crash applications}
+  \vspace{-0.2cm}
+  \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
+    \rightskip9pt\relax
+    \item Coupled mechanical, thermal and electrochemical solvers to simulate the impact and short-circuit scenarios of lithium-ion battery.
+    \item Followed the Tshell elements with Randles equivalent circuit modelling approach.
+  \end{itemize}
+
+% pjt6
   \textbf{Analysis of Road Accident Fatalities in India \begin{small}\textit{(WIP)}\end{small}}
   \vspace{-0.2cm}
   \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
     \rightskip9pt\relax
     \item Analysing the trends in traffic accidents and fatalities classified by road, vehicles and time of occurrence.
     \item Developing a interactive data visualization dashboard to present key insights and temporal trends.
-  \end{itemize}
-
-% pjt6
-  \textbf{Effect of Helmet Fit \& Orientation in Frontal and Lateral Impact \begin{small}\textit{(WIP)}\end{small}}
-  \vspace{-0.2cm}
-  \begin{itemize}[noitemsep, topsep=0pt, left=10pt]
-    \rightskip9pt\relax
-    \item Studying the common misuse of helmets and analysing its effect on injury using finite element analysis.
-    \item Identifying the most vulnerable orientation of the helmet using Bayesian analysis.
   \end{itemize}
 \end{large}
 \vspace{7pt}
@@ -364,7 +364,7 @@ format:
   \leftskip3pt\relax
   \textbf{Jobin John}\\
     \rightskip9pt\relax
-    Researcher, Vehicle Safety, Mechanics and Maritime Sciences\\
+    Researcher, Vehicle Safety, Mechanical Engineering\\
     Chalmers University of Technology - Gothenburg, SE\\
     \href{mailto:jobin.john@chalmers.se}{jobin.john@chalmers.se}\\
     \href{tel:+46-31-772-65-97}{+46-31-772-65-97}

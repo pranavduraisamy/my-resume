@@ -68,21 +68,21 @@ _**Summary:** Mechanical engineering grad passionate about the areas of Bayesian
  - Estimated the rotation angle from anatomical parameters using Bayesian multiple linear regression.
  - Presented at IRCOBI Asia (2025) Conference, Chennai, India.
 
-### Computational Modelling of Li-ion Battery in LS-Dyna for crash applications
- - Coupled mechanical, thermal and electrochemical solvers to simulate the impact and short-circuit scenarios of lithium-ion battery.
- - Followed the Tshell elements with Randles equivalent circuit modelling approach.
+### [Bayesian Optimization of Helmet Fit for Enhanced Safety in Frontal and Lateral Impacts](https://github.com/pranavduraisamy/helmet-fit-bayes-opt)
+ - Modelled a parametric open-face motorcycle helmet to study the influence of fit parameters like helmet size, rotation, and chinstrap slack.
+ - Developed a complete Bayesian optimization pipeline integrating LS-DYNA and Ax (Python package) to minimize injury metric across frontal and lateral impact scenarios.
 
 ### [Contribution to Bambi Example Gallery](https://bambinos.github.io/bambi/notebooks/multi-level_regression.html)
  - Refined the documentation to clarify Bayesian hierarchical modelling concepts and improve consistency between Bambi and PyMC implementations.
  - Expanded the hierarchical linear regression example by including mathematical formulations, EDA, and posterior visualisations.
 
+### Computational Modelling of Li-ion Battery in LS-Dyna for crash applications
+ - Coupled mechanical, thermal and electrochemical solvers to simulate the impact and short-circuit scenarios of lithium-ion battery.
+ - Followed the Tshell elements with Randles equivalent circuit modelling approach.
+
 ### Analysis of Road Accident Fatalities in India (WIP)
  - Analysing the trends in traffic accidents and fatalities classified by road, vehicles and time of occurrence.
  - Developing a interactive data visualization dashboard to present key insights and temporal trends.
-
-### Effect of Helmet Fit & Orientation in Frontal and Lateral Impact (WIP)
- - Studying the common misuse of helmets and analysing its effect on injury using finite element analysis.
- - Identifying the most vulnerable orientation of the helmet using Bayesian analysis.
 
 ## Tools & Software
 
